@@ -1,0 +1,10 @@
+# Modern Billing System Requirements
+# Python 3.7+ is required
+
+# Tkinter is included with Python standard library
+# No additional packages required
+
+# For development (optional):
+# pylint>=2.15.0
+# black>=22.0.0
+# pytest>=7.0.0
